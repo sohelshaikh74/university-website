@@ -46,6 +46,9 @@ We welcome contributions from the community to improve the Edusity University We
 
 If you have any questions, feedback, or need assistance with the Edusity University Website, please don't hesitate to contact us at [sohelshaikh30611@gmail.com](mailto:contact@edusityuniversity.com).
 
+## Demo Link
+https://edusity-university-website.netlify.app/
+
 ## preview
 
 ![image](https://github.com/sohelshaikh74/university-website/assets/118370019/51b4ac8c-ee0e-4a4b-bec5-e960785abe47)
