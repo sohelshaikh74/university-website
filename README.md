@@ -1,4 +1,4 @@
-# Edusity University Website
+# Edusity University Website🏫
 
 Welcome to the Edusity University Website repository! This website serves as the online platform for Edusity University, offering information about our institution, programs, faculty, and more.
 
@@ -28,7 +28,7 @@ This website is built using modern web technologies, including:
 
 To explore the Edusity University Website locally or contribute to its development, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/edusity-university-website.git`
+1. Clone this repository: `https://github.com/sohelshaikh74/university-website.git`
 2. Navigate to the project directory: `cd edusity-university-website`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
