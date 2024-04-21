@@ -25,7 +25,7 @@ This website is built using modern web technologies, including:
 - **GitHub Pages:** Hosting platform for deploying the website.
 
 ## Demo Link
-https://edusity-university-website.netlify.app/
+🌐Link: https://edusity-university-website.netlify.app/
 
 ## Getting Started
 
