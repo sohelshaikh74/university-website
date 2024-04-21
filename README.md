@@ -46,3 +46,19 @@ We welcome contributions from the community to improve the Edusity University We
 
 If you have any questions, feedback, or need assistance with the Edusity University Website, please don't hesitate to contact us at [sohelshaikh30611@gmail.com](mailto:contact@edusityuniversity.com).
 
+## preview
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/51b4ac8c-ee0e-4a4b-bec5-e960785abe47)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/46bb5d10-8515-43f5-8eb2-70c0a874850e)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/546f632d-07aa-40dc-84bc-6da7c51660c4)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/e643d246-9e12-4d4a-bd30-9a0d345ca052)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/d22fae2c-1fb5-434c-ae1b-f67a9dad413d)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/c4a2e973-3c57-4a22-a50e-125db2a7f557)
+
+![image](https://github.com/sohelshaikh74/university-website/assets/118370019/9e278947-207c-44cd-97b1-138fa310f382)
+
