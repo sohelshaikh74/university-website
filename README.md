@@ -24,6 +24,9 @@ This website is built using modern web technologies, including:
 - **React Router:** For managing navigation between different pages.
 - **GitHub Pages:** Hosting platform for deploying the website.
 
+## Demo Link
+https://edusity-university-website.netlify.app/
+
 ## Getting Started
 
 To explore the Edusity University Website locally or contribute to its development, follow these steps:
@@ -46,8 +49,7 @@ We welcome contributions from the community to improve the Edusity University We
 
 If you have any questions, feedback, or need assistance with the Edusity University Website, please don't hesitate to contact us at [sohelshaikh30611@gmail.com](mailto:contact@edusityuniversity.com).
 
-## Demo Link
-https://edusity-university-website.netlify.app/
+
 
 ## preview
 
