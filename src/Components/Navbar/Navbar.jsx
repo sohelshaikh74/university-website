@@ -21,7 +21,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className={`contianer ${sticky ? "dark-nav" : ""}`}>
+    <nav className={`contianer ${sticky===true ? "dark-nav" : ""}`}>
       <img src={logo} alt="" className="logo" />
       <ul className={mobileMenu ? "" : "hide-mobile-menu"}>
         <li>
